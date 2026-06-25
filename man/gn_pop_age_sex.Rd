@@ -3,17 +3,19 @@
 \docType{data}
 \name{gn_pop_age_sex}
 \alias{gn_pop_age_sex}
-\title{Population by Sex and Age According to Districts}
+\title{Population by Sex and Age According to Grama Niladhari Division}
 \format{
 A data frame.
 }
 \source{
 Department of Census and Statistics Sri Lanka
+Census of Population and Housing 2024.
 }
 \usage{
 gn_pop_age_sex
 }
 \description{
-Census of Population and Housing 2024.
+Population counts by sex and age group at the Grama Niladhari (GN) level
+from the Sri Lanka Census of Population and Housing 2024.
 }
 \keyword{datasets}

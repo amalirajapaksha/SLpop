@@ -6,7 +6,7 @@
 #'
 #' @format A data frame.
 #'
-#' @source Department of Census and Statistics Sri Lanka
+#' @source Department of Census and Statistics, Sri Lanka.
 #' Census of Population and Housing 2024.
 #'
 "gn_pop_age_sex"
