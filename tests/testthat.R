@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(SLpop)
+library(SLpopData)
 
-test_check("SLpop")
+test_check("SLpopData")

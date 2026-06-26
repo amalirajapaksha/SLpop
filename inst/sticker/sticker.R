@@ -5,7 +5,7 @@ showtext_auto()
 
 sticker(
   subplot = "inst/sticker/SriLanka (2).png",
-  package = "SLpop",
+  package = "SLpopData",
   p_size = 20,
   p_color = "#004225",
   p_x = 1,       # horizontal position (1 = center)
@@ -14,9 +14,9 @@ sticker(
   s_y = 0.65,     # slight downward shift
   s_width = 0.65, # enlarge icon
   s_height = 0.5,
-  h_fill = "#5F9EA0",  # light yellow background
-  h_color = "#0B5D4B", # blue border
-  filename = "man/figures/SLpop_hexSticker.png",
+  h_fill = "#5F9EA0",
+  h_color = "#0B5D4B",
+  filename = "man/figures/SLpopData_hexSticker.png",
   dpi = 300
 )
 
