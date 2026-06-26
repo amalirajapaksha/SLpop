@@ -9,7 +9,7 @@ sticker(
   p_size = 20,
   p_color = "#004225",
   p_x = 1,       # horizontal position (1 = center)
-  p_y = 1.6,     # vertical position (lower than default
+  p_y = 1.5,     # vertical position (lower than default
   s_x = 1,     # slight right shift
   s_y = 0.65,     # slight downward shift
   s_width = 0.65, # enlarge icon
