@@ -9,7 +9,7 @@ Authors@R: c(
       role = c("aut", "cre")
     )
   )
-Description: The package includes population, housing, household, and demographic datasets at the national, district, Divisional Secretariat (DS), and Grama Niladhari (GN) levels, facilitating statistical analysis, data visualization, and research in R.
+Description: The package includes Sri Lanka's population, housing, household, and demographic datasets at the national, district, Divisional Secretariat (DS), and Grama Niladhari (GN) levels, facilitating statistical analysis, data visualization, and research in R.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
