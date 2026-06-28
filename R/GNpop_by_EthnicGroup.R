@@ -10,4 +10,6 @@
 #' @source Department of Census and Statistics, Sri Lanka.
 #' Census of Population and Housing 2024.
 #'
+#' @examples
+#' head(GNpop_by_EthnicGroup)
 "GNpop_by_EthnicGroup"
